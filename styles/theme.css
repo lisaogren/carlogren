@@ -1,0 +1,17 @@
+/* First theme (missing a bit of contrast) */
+/* :root {
+  --main-bg-color: #263D42;
+  --main-text-color: #CCDBDC;
+  --title-color: #63C7B2;
+  --active-color: #80CED7;
+  --border-color: #8E6C88;
+} */
+
+/* Second theme */
+:root {
+  --main-bg-color: #2A324B;
+  --main-text-color: #F7C59F;
+  --title-color: #E1E5EE;
+  --active-color: #C7CCDB;
+  --border-color: #767B91;
+}
